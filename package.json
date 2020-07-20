@@ -1,0 +1,26 @@
+{
+  "name": "first_nodejs",
+  "version": "1.0.0",
+  "description": "我的第一个node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sansheng741/Create-JS-Workspace-2019-6-13-6-47-30-603.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "colin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sansheng741/Create-JS-Workspace-2019-6-13-6-47-30-603/issues"
+  },
+  "homepage": "https://github.com/sansheng741/Create-JS-Workspace-2019-6-13-6-47-30-603#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
